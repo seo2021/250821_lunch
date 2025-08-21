@@ -33,25 +33,29 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "바삭 촉촉 돈까스! 🍽️",
       description:
         "겉바속촉 돈까스와 달콤한 소스의 환상 조합! 남녀노소 누구나 좋아하는 메뉴.",
-      image: "https://source.unsplash.com/400x250/?japanese-food,tonkatsu",
+      image:
+        "https://i.namu.wiki/i/bmpxH3Ns7WOwmFLNeijKBo1fWoYdYUakLPPnNjOqdqtURIvNNUjecsoKAv5A4FiBXOewmUMoYMvOWTM9gmiQFTFXjJZbirAmjJwf7ym0rFn6rIfpfMWP_ccRWtvavJSzd4tjGvndV1DQV5oSQGBYBQ.webp",
     },
     {
       name: "상큼한 샐러드 파스타! 🥗",
       description:
         "가볍고 신선하게 즐기고 싶을 때! 상큼한 드레싱의 샐러드 파스타.",
-      image: "https://source.unsplash.com/400x250/?salad,pasta",
+      image:
+        "https://mblogthumb-phinf.pstatic.net/MjAyMzEwMTFfMTM1/MDAxNjk2OTgwOTMyMjg1._2VaXiWyZdJfEBJapxFJxmU53V5ljzy71kMr_9_tEBYg.NelEeMXOpWWFEBtAdvrytdjf2zL0jzIM6f0Sr5THt6Qg.JPEG.nuribomlife/%EC%83%90%EB%9F%AC%EB%93%9C%ED%8C%8C%EC%8A%A4%ED%83%8001.jpg?type=w800",
     },
     {
       name: "고소한 비빔밥! 🥣",
       description:
         "다채로운 채소와 고기, 고추장이 어우러진 건강하고 맛있는 한 끼!",
-      image: "https://source.unsplash.com/400x250/?korean-food,bibimbap",
+      image:
+        "https://source.unsplash.com/400x250/?korean-food,bibimbaphttps://i.namu.wiki/i/oOQRBGMYkoY5IjBTFsYyECRMRpnNJpBzRHh-tRcwJ7vfzJzPkG1Y6srcuJo5rwm7B-DKUcPB6_WDvP64ucQMkhUJG2klEevModuO8n-lwCr-JPmSsU-sntj6a_BMSa-NEY_UW2GOwjS6xfZgCm1HSA.jpg",
     },
     {
       name: "뜨끈한 순대국밥! 🥘",
       description:
         "속이 든든하고 뜨끈한 순대국밥으로 얼어붙은 몸을 녹여보세요.",
-      image: "https://source.unsplash.com/400x250/?korean-food,sundaegukbap",
+      image:
+        "https://i.namu.wiki/i/WXAi16g5cSOna-NSg1pU4UylWm2wccmrs6ETXu68YD7avs9H-Sxlo24nqtV4jAEdzHMusc_5XiU2TapTkkeQDr_V9gXX3PZD4jnMGF5X-YOQVIy-ukWluZTQl7O3TCSD6gMVBcMvCB1XTnv_0lxVMw.webp",
     },
   ];
 
